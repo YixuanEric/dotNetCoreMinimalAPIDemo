@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0PKe7sWtZiH0OMlEjiXgGkqwWyUaH2kZG3MT7fWMkq4=",
+  "Source": "dotnetMinimalApiDemo",
+  "BasePath": "_content/dotnetMinimalApiDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnetMinimalApiDemo\\wwwroot",
+      "Source": "dotnetMinimalApiDemo",
+      "ContentRoot": "C:\\Users\\Eric\\Source\\repos\\dotnetMinimalApiDemo\\wwwroot\\",
+      "BasePath": "_content/dotnetMinimalApiDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Eric\\Source\\repos\\dotnetMinimalApiDemo\\wwwroot\\contacts.json",
+      "SourceId": "dotnetMinimalApiDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eric\\Source\\repos\\dotnetMinimalApiDemo\\wwwroot\\",
+      "BasePath": "_content/dotnetMinimalApiDemo",
+      "RelativePath": "contacts.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contacts.json"
+    }
+  ]
+}
